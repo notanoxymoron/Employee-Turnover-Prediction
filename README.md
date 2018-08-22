@@ -333,7 +333,6 @@ df.describe()
 
 
 <div>
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -654,23 +653,7 @@ sns.distplot(df.averageMonthlyHours, kde=False, color="b", ax=axes[2]).set_title
 axes[2].set_ylabel('Employee Count')
 ```
 
-    C:\Users\Randy\Anaconda3\lib\site-packages\matplotlib\axes\_axes.py:6462: UserWarning: The 'normed' kwarg is deprecated, and has been replaced by the 'density' kwarg.
-      warnings.warn("The 'normed' kwarg is deprecated, and has been "
-    C:\Users\Randy\Anaconda3\lib\site-packages\matplotlib\axes\_axes.py:6462: UserWarning: The 'normed' kwarg is deprecated, and has been replaced by the 'density' kwarg.
-      warnings.warn("The 'normed' kwarg is deprecated, and has been "
-    C:\Users\Randy\Anaconda3\lib\site-packages\matplotlib\axes\_axes.py:6462: UserWarning: The 'normed' kwarg is deprecated, and has been replaced by the 'density' kwarg.
-      warnings.warn("The 'normed' kwarg is deprecated, and has been "
-    
-
-
-
-
-    Text(0,0.5,'Employee Count')
-
-
-
-
-![png](output_18_2.png)
+ ![png](output_18_2.png)
 
 
 # Pre-processing 
