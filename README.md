@@ -1,6 +1,6 @@
 
 # Understanding and Predicting Employee Turnover
-https://media.giphy.com/media/l3979tir6x4dF20j6/giphy.gif"
+![ET GIF](employee-turnover.gif)
 
 **"I quit..."** This is the last thing anybody wants to hear from their employees. In a sense, it’s the employees who make the company. It’s the employees who do the work. It’s the employees who shape the company’s culture. Long-term success, a healthy work environment, and high employee retention are all signs of a successful company. But when a company experiences a high rate of employee turnover, then something is going wrong. This can lead the company to huge monetary losses by these innovative and valuable employees.
 
