@@ -1,6 +1,6 @@
 
 # Understanding and Predicting Employee Turnover
-<img src="https://media.giphy.com/media/l3979tir6x4dF20j6/giphy.gif"/>
+https://media.giphy.com/media/l3979tir6x4dF20j6/giphy.gif"
 
 **"I quit..."** This is the last thing anybody wants to hear from their employees. In a sense, it’s the employees who make the company. It’s the employees who do the work. It’s the employees who shape the company’s culture. Long-term success, a healthy work environment, and high employee retention are all signs of a successful company. But when a company experiences a high rate of employee turnover, then something is going wrong. This can lead the company to huge monetary losses by these innovative and valuable employees.
 
@@ -1254,16 +1254,12 @@ sns.barplot(x="importance", y='index', data=feature_importances,
 
 # Retention PLan
 
-**Reference:** http://rupeshkhare.com/wp-content/uploads/2013/12/Employee-Attrition-Risk-Assessment-using-Logistic-Regression-Analysis.pdf
-
 Since this model is being used for people, we should refrain from soley relying on the output of our model. Instead, we can use it's probability output and design our own system to treat each employee accordingly. 
 
 1.	**Safe Zone (Green)** – Employees within this zone are considered safe. 
 2.	**Low Risk Zone (Yellow)** – Employees within this zone are too be taken into consideration of potential turnover. This is more of a long-term track.
 3.	**Medium Risk Zone (Orange)** – Employees within this zone are at risk of turnover. Action should be taken and monitored accordingly. 
 4.	**High Risk Zone (Red)** – Employees within this zone are considered to have the highest chance of turnover. Action should be taken immediately. 
-
-<img src="http://i64.tinypic.com/somk9s.jpg"/>
 
 
 ```python
