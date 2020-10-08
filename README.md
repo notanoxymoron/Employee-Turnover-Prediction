@@ -1,13 +1,17 @@
 
-# Understanding and Predicting Employee Turnover
+**"You don't build a business. You build people, and people build the business." - Zig Ziglar**
+***
 ![ET GIF](employee-turnover.gif)
 
-**"I quit..."** This is the last thing anybody wants to hear from their employees. In a sense, it’s the employees who make the company. It’s the employees who do the work. It’s the employees who shape the company’s culture. Long-term success, a healthy work environment, and high employee retention are all signs of a successful company. But when a company experiences a high rate of employee turnover, then something is going wrong. This can lead the company to huge monetary losses by these innovative and valuable employees.
 
+**"I quit..."** This is the last thing anybody wants to hear from their employees. In a sense, it’s the employees who make the company. It’s the employees who do the work. It’s the employees who shape the company’s culture. 
 
-Companies that maintain a healthy organization and culture are always a good sign of future prosperity. Recognizing and understanding what factors that were associated with employee turnover will allow companies and individuals to limit this from happening and may even increase employee productivity and growth. These predictive insights give managers the opportunity to take corrective steps to build and preserve their successful business.
+High rate of employee turnover can lead the company to huge monetary losses by these innovative and valuable employees.
 
-**"You don't build a business. You build people, and people build the business." - Zig Ziglar**
+Companies that maintain a healthy organization and culture are always a good sign of future prosperity. Recognizing and understanding what factors that were associated with employee turnover will allow companies and individuals to limit this from happening and may even increase employee productivity and growth. 
+
+These predictive insights give managers the opportunity to take corrective steps to build and preserve their successful business.
+
 ***
 
 ## HR Analytics
