@@ -1118,7 +1118,7 @@ plt.show()
 # Get Feature Importances
 feature_importances = pd.DataFrame(rf.feature_importances_,
                                    index = X_train.columns,
-                                    columns=['importance']).sort_values('importance', ascending=False)
+                                   columns=['importance']).sort_values('importance', ascending=False)
 feature_importances = feature_importances.reset_index()
 feature_importances
 ```
@@ -1256,7 +1256,7 @@ sns.barplot(x="importance", y='index', data=feature_importances,
 ![png](output_51_1.png)
 
 
-# Retention PLan
+# Retention Plan
 
 Since this model is being used for people, we should refrain from soley relying on the output of our model. Instead, we can use it's probability output and design our own system to treat each employee accordingly. 
 
