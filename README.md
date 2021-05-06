@@ -6,9 +6,7 @@
 
 **"I quit..."** This is the last thing anybody wants to hear from their employees. In a sense, it’s the employees who make the company. It’s the employees who do the work. It’s the employees who shape the company’s culture. 
 
-High rate of employee turnover can lead the company to huge monetary losses by these innovative and valuable employees.
-
-Companies that maintain a healthy organization and culture are always a good sign of future prosperity. Recognizing and understanding what factors that were associated with employee turnover will allow companies and individuals to limit this from happening and may even increase employee productivity and growth. 
+High rate of employee turnover can lead the company to huge monetary losses. Recognizing and understanding what factors are associated with employee turnover will allow companies and individuals to limit this from happening and may even increase employee productivity and growth. 
 
 These predictive insights give managers the opportunity to take corrective steps to build and preserve their successful business.
 
@@ -1248,12 +1246,9 @@ sns.barplot(x="importance", y='index', data=feature_importances,
 
 
 
-    <matplotlib.axes._subplots.AxesSubplot at 0x1d0835083c8>
-
-
-
 
 ![png](output_51_1.png)
+
 
 
 # Retention Plan
@@ -1264,6 +1259,11 @@ Since this model is being used for people, we should refrain from soley relying 
 2.	**Low Risk Zone (Yellow)** – Employees within this zone are too be taken into consideration of potential turnover. This is more of a long-term track.
 3.	**Medium Risk Zone (Orange)** – Employees within this zone are at risk of turnover. Action should be taken and monitored accordingly. 
 4.	**High Risk Zone (Red)** – Employees within this zone are considered to have the highest chance of turnover. Action should be taken immediately. 
+
+
+![png](employee-retention.png)
+
+
 
 
 ```python
